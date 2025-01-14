@@ -11,7 +11,12 @@ frutas = ["Manzana", "Pera","Platano"]
 numeros = [ 1, 2 ,3 , 4, 5, 6 , 7]
 texto = "Hello World"
 x = 5
-peso = 10.4
+peso = 10.4 # float
 
+# print(type(peso))
 
-print(type(peso))
+valor_int=int(peso)
+
+valor_str = str(x)
+
+print(valor_int)
