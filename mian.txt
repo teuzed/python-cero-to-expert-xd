@@ -1,0 +1,1 @@
+# Declarar dos variables de tipo int , y compar cual es mayor o menor y mostrar un mensaje en consola
